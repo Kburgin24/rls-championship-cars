@@ -21,5 +21,8 @@
   ],
   "Braking G":1.1,
   "Config Type":"GT250",
-  "Configuration":"brexda_GT250"
+  "Configuration":"Brexda GT250"
+  "Description":"Brexda's GT-250 barstow",
+  "Value":100000,
+  "Population":50,
 }
