@@ -1,26 +1,7 @@
 {
-  "0-100 km/h":5.8,
-  "0-100 mph":13.3,
-  "0-200 km/h":20.4,
-  "0-60 mph":5.6,
-  "100-0 km/h":35.8,
-  "100-200 km/h":14.6,
-  "60-0 mph":108.8,
-  "60-100 mph":7.7,
-  "BoundingBox":[
-    [
-      -0.63,
-      -1.95,
-      -0.118
-    ],
-    [
-      1.33,
-      2.3,
-      0.983
-    ]
-  ],
-  "Braking G":1.1,
   "Config Type":"GT250",
-  "Configuration":"blackout_GT250",
-  "Description":""
+  "Configuration":"Blackout's GT-250",
+  "Description":"Blackout's GT-250 BX",
+  "Value":100000,
+  "Population":50,
 }
