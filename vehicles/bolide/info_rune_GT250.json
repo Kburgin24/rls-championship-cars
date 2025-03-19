@@ -21,5 +21,8 @@
   ],
   "Braking G":1.1,
   "Config Type":"GT250",
-  "Configuration":"rune_GT250"
+  "Configuration":"Rune GT250"
+  "Description":"Rune's GT-250 bolide",
+  "Value":100000,
+  "Population":50,
 }
