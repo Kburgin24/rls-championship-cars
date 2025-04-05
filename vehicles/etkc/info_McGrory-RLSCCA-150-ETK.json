@@ -4,4 +4,10 @@
   "Description":"McGrory's RLSCCA-150 ETK-C, placed 1st in the first round of the Point-to-Point RallyRP",
   "Value":50000,
   "Population":50,
+  "Transmission":"DCT",
+  "Drivetrain":"RWD",
+  "Power":243,
+  "Propulsion":"ICE",
+  "Weight":1625,
+  "Fuel Type":"Gasoline",
 }
