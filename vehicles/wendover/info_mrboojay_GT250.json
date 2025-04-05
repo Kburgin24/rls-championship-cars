@@ -4,5 +4,10 @@
   "Description":"mrboojay's GT-250 wendover",
   "Value":100000,
   "Population":50,
-  
+  "Transmission":"Manual",
+  "Drivetrain":"RWD",
+  "Power":457,
+  "Propulsion":"ICE",
+  "Weight":1826,
+  "Fuel Type":"Gasoline",
 }
