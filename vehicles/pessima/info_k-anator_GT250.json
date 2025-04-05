@@ -1,7 +1,13 @@
 {
   "Config Type":"GT250",
   "Configuration":"K-Anator's GT-250"
-  "Description":"K-Anator's GT-250 pessima",
+  "Description":"K-Anator's GT-250 Pessima",
   "Value":100000,
   "Population":50,
+  "Transmission":"Manual",
+  "Drivetrain":"AWD",
+  "Power":345,
+  "Propulsion":"ICE",
+  "Weight":1350,
+  "Fuel Type":"Gasoline",
 }
