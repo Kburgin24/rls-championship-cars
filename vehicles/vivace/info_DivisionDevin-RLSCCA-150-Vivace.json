@@ -4,4 +4,10 @@
   "Description":"DivisionDevin's RLSCCA-150 Vivace, won the first round of the Point-to-Point RallyRP",
   "Value":50000,
   "Population":50,
+  "Transmission":"DCT",
+  "Drivetrain":"FWD",
+  "Power":228,
+  "Fuel Type":"Gasoline",
+  "Propulsion":"ICE",
+  "Weight":1522,
 }
