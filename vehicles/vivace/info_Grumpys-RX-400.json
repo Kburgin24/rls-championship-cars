@@ -4,4 +4,10 @@
   "Description":"Grumpy's RX-400 vivace, competed in the first RLS RallyX Round of 2025",
   "Value":100000,
   "Population":50,
+  "Fuel Type":"Gasoline",
+  "Propulsion":"ICE",
+  "Drivetrain":"AWD",
+  "Transmission":"Manual",
+  "Power":532,
+  "Weight":1338,
 }
