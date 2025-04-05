@@ -4,4 +4,10 @@
   "Description":"Hatrixs' RX-250 ETK-I, placed 3rd in the first round of the Point-to-Point RallyRP",
   "Value":75000,
   "Population":50,
+  "Transmission":"Manual",
+  "Drivetrain":"AWD",
+  "Power":371,
+  "Propulsion":"ICE",
+  "Weight":1483,
+  "Fuel Type":"Gasoline",
 }
