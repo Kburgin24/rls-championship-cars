@@ -4,4 +4,10 @@
   "Description":"Rune's GT-250 bolide",
   "Value":100000,
   "Population":50,
+  "Transmission":"Manual",
+  "Drivetrain":"RWD",
+  "Power":300,
+  "Propulsion":"ICE",
+  "Weight":1202,
+  "Fuel Type":"Gasoline",
 }
