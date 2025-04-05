@@ -4,4 +4,10 @@
   "Description":"Pichu75's RX-150 covet, competed in the first RLS RallyX Round of 2025",
   "Value":50000,
   "Population":50,
+  "Transmission":"Manual",
+  "Drivetrain":"FWD",
+  "Power":161,
+  "Propulsion":"ICE",
+  "Weight":1070,
+  "Fuel Type":"Gasoline",
 }
