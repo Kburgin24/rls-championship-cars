@@ -9,4 +9,5 @@
   "Transmission":"Manual",
   "Power":321,
   "Weight":1276,
+  "Drivetrain":AWD,
 }
