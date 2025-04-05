@@ -1,6 +1,6 @@
 {
   "format":2,
-  "licenseName":"LAF-4565",
+  "licenseName":"Blackout",
   "mainPartName":"bx",
   "model":"bx",
   "paints":[
