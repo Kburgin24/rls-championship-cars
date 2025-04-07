@@ -2,7 +2,7 @@
   "Config Type":"GT250",
   "Configuration":"Rune's GT-250"
   "Description":"Rune's GT-250 bolide",
-  "Value":100000,
+  "Value":20,
   "Population":50,
   "Transmission":"Manual",
   "Drivetrain":"RWD",
