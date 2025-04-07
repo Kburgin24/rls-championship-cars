@@ -2,7 +2,7 @@
   "Config Type":"GT250",
   "Configuration":"Brexda's GT-250"
   "Description":"Brexda's GT-250 barstow",
-  "Value":100000,
+  "Value":20,
   "Population":50,
   "Transmission":"Manual",
   "Drivetrain":"RWD",
